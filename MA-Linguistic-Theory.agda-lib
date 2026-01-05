@@ -1,0 +1,3 @@
+name: MA-Linguistic-Theory
+include: .
+depend: cubical
